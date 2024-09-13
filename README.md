@@ -1,8 +1,11 @@
 -👋 Hi, I’m @anjan100
--👀 I’m interested in Full Stack Web Development
+-👀 I’m interested in Full Stack Web Development.
+
 -🌱 I’m currently learning React and Node.js
 -💞️ I’m looking to collaborate on MERN projects
+
 -📫 How to reach me: https://www.linkedin.com/in/anjan100/
+
 -⚡ Fun fact: I enjoy building full-stack web apps and exploring new tech!
 
 💻 About Me:
