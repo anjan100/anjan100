@@ -15,7 +15,7 @@ I'm a budding full-stack developer with a passion for creating dynamic web appli
 - Languages: JavaScript, HTML, CSS
 - Frontend: React.js
 - Backend: Node.js, Express.js
-- Database: MongoDB
+- Database: Mysql, MongoDB
 - Version Control: Git, GitHub
   
 🎯 Learning Goals:
